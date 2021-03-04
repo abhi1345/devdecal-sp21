@@ -1,3 +1,4 @@
+
 # HW3 - What Would Solidity Print?
 
 Written by Jenny Cong, Edited by Minxing Chen and Simon Guo.
@@ -34,7 +35,6 @@ You called `print(player1)`.
 
 What would Solidity print?
 
-<u>Answer:</u> `0xd95e068a69045ece32eecad394d86a9ac7b832ca`
 
 
 
@@ -48,7 +48,6 @@ You called `print(player2)`.
 
 What would Solidity print?
 
-<u>Answer:</u> 0x0000000000000000000000000000000000000000
 
 
 
@@ -62,7 +61,6 @@ You called `print(player2)`.
 
 What would Solidity print?
 
-<u>Answer:</u> 0xbbab9d85b4eca79ec9f0e4595681f3a025b5e3f6
 
 
 
@@ -72,7 +70,6 @@ Tim called `reveal(true, “12345678”)`.
 
 What is Matt's ether balance now?
 
-<u>Answer:</u> 9 ether
 
 
 
@@ -80,7 +77,6 @@ What is Matt's ether balance now?
 
 What is Tim's ether balance now?
 
-<u>Answer:</u> 11 ether
 
 
 
