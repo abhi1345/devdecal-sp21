@@ -96,12 +96,12 @@ contract dddToken is ERC20Interface, Owned, SafeMath {
     // Constructor
     // ------------------------------------------------------------------------
     constructor() public {
-        symbol = "ddd";
-        name = "dddToken";
+        symbol = "abi";
+        name = "abhiCoin";
         decimals = 18;
         _totalSupply = 100000000000000000000000000;
-        balances[0xB8C9C69424892E40D526b6E6F588B16324481592] = _totalSupply;
-        emit Transfer(address(0), 0xB8C9C69424892E40D526b6E6F588B16324481592, _totalSupply);
+        balances[0xC5dc58938681B6a5b5Eff5E0C6694d2864b486C0] = _totalSupply;
+        emit Transfer(address(0), 0xC5dc58938681B6a5b5Eff5E0C6694d2864b486C0, _totalSupply);
     }
 
 
